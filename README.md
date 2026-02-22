@@ -63,8 +63,8 @@ A practical assessment project demonstrating end-to-end data analysis: data clea
 
 ## 📫 Let’s Connect
 
-- **LinkedIn:** *linkedIn.com/samueloyedokun*
-- **GitHub:** https://github.com/oyedonsam100
+- **LinkedIn:** *https://www.linkedin.com/in/samuel-oyedokun-b41895142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBwcvYBGUQFK%2BU5%2F9lxpqrg%3D%3D*
+- **GitHub:** https://github.com/SamuelOyedokun/
 - **Email:** *thesamueloyedokun@gmail.com*
 
 ---
