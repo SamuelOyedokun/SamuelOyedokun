@@ -3,6 +3,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/SamuelOyedokun?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=SamuelOyedokun&style=for-the-badge&color=blue)
 
+## 📊 GitHub Analytics
+
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelOyedokun&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOyedokun&layout=compact&theme=dark)
+
 Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner
 
 I build automated reporting systems, predictive analytics models, and production-grade data pipelines that turn raw data into decision intelligence.
