@@ -1,6 +1,6 @@
 # Samuel Oyedokun
 
-Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner 
+Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner
 
 I build automated reporting systems, predictive analytics models, and production-grade data pipelines that turn raw data into decision intelligence.
 
@@ -26,7 +26,7 @@ I focus on building scalable analytics systems that automate insight generation 
 Production-grade BI pipeline that:
 
 - Extracts 2,800+ transactions from SQL Server  
-- Computes 12+ executive KPIs automatically  
+- Computes 12+ executive KPIs automatically from live transactional data  
 - Generates structured PDF reports  
 - Sends automated email briefings via scheduled workflows  
 - Deploys interactive dashboards using Streamlit    
@@ -66,7 +66,8 @@ Git | GitHub Actions | ETL Pipelines
 
 - Reduced manual reporting time by 90% through automation  
 - Enabled real-time KPI tracking for decision-makers  
-- Built predictive systems to support proactive institutional planning  
+- Built predictive systems to support proactive institutional planning
+- Designed scalable architectures that separate data ingestion, transformation, and presentation layers
 
 ---
 
