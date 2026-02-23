@@ -85,7 +85,7 @@ I aim to build and scale intelligent data systems that power strategic decision-
 
 ## 🌍 Open To
 
-- Remote BI Engineer roles  
+- BI Engineering roles  
 - Data Analyst roles  
 - Data Engineering opportunities  
 - International collaboration  
