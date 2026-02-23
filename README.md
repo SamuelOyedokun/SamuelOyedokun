@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samuel%20Oyedokun&fontSize=50&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner
+
+I build automated reporting systems, predictive analytics models, and production-grade data pipelines that turn raw data into decision intelligence.
+
 ![GitHub followers](https://img.shields.io/github/followers/SamuelOyedokun?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/SamuelOyedokun?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=SamuelOyedokun&style=for-the-badge&color=blue)
@@ -9,11 +13,6 @@
 ## 🔥 Contribution Activity
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelOyedokun&theme=react-dark)
-
-
-Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner
-
-I build automated reporting systems, predictive analytics models, and production-grade data pipelines that turn raw data into decision intelligence.
 
 ---
 ## 💼 Professional Focus
