@@ -7,7 +7,7 @@ I build automated reporting systems, predictive analytics models, and production
 ---
 ## 💼 Professional Focus
 
-I focus on building scalable analytics systems that automate insight generation and support data-driven decision-making at organizational level.
+I focus on building scalable analytics systems that automate insight generation and support data-driven decision-making at the organizational level.
 
 ---
 ## 🚀 What I Build
@@ -23,18 +23,18 @@ I focus on building scalable analytics systems that automate insight generation 
 
 ### 📊 KPI Reporting System
 
-A scalable BI platform that:
+Production-grade BI pipeline that:
 
 - Extracts 2,800+ transactions from SQL Server  
-- Computes executive KPIs automatically  
-- Generates PDF reports  
-- Sends automated email briefings  
-- Deploys interactive Streamlit dashboards  
+- Computes 12+ executive KPIs automatically  
+- Generates structured PDF reports  
+- Sends automated email briefings via scheduled workflows  
+- Deploys interactive dashboards using Streamlit    
 
 ### 🎓 Enrolment Forecasting & Resource Optimization
 
 - Trained ML models on 37,000+ historical records  
-- Achieved X% model accuracy (put your real number)  
+- Achieved 95% model accuracy  
 - Built interactive prediction dashboard  
 - Supports institutional planning & resource allocation  
 
@@ -48,16 +48,16 @@ Churn modeling and revenue impact quantification for telecom customer data.
 
 ### 🛠 Tech Stack
 
-**Languages**  
-Python | SQL  
+**Programming**
+Python | SQL | Bash
 
-**Databases**  
-SQL Server | PostgreSQL  
+**Databases**
+SQL Server | PostgreSQL | SQLite
 
-**Analytics & ML**  
-Scikit-learn | Pandas | Streamlit | Power BI  
+**Analytics & ML**
+Scikit-learn | Pandas | NumPy | Streamlit | Power BI
 
-**DevOps & Automation**  
+**Automation & DevOps**
 Git | GitHub Actions | ETL Pipelines
 
 ---
@@ -67,6 +67,12 @@ Git | GitHub Actions | ETL Pipelines
 - Reduced manual reporting time by 90% through automation  
 - Enabled real-time KPI tracking for decision-makers  
 - Built predictive systems to support proactive institutional planning  
+
+---
+
+## 🎯 Career Objective
+
+I aim to build and scale intelligent data systems that power strategic decision-making in global organizations through automation, predictive modeling, and robust data infrastructure.
 
 ---
 
