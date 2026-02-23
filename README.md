@@ -102,6 +102,8 @@ I aim to build and scale intelligent data systems that power strategic decision-
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelOyedokun&theme=react-dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SamuelOyedokun&theme=dark&hide_border=true)
+
 ---
 
 > “The analysis is the starting point. The system is the product.”
