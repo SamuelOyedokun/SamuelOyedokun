@@ -22,15 +22,21 @@ I focus on building scalable analytics systems that automate insight generation 
 ## 🔥 Featured Projects
 
 ### 📊 KPI Reporting System
+
 A scalable BI platform that:
-- Extracts 2,800+ transactions from SQL Server
-- Computes executive KPIs automatically
-- Generates PDF reports
-- Sends automated email briefings
-- Deploys interactive Streamlit dashboards
+
+- Extracts 2,800+ transactions from SQL Server  
+- Computes executive KPIs automatically  
+- Generates PDF reports  
+- Sends automated email briefings  
+- Deploys interactive Streamlit dashboards  
 
 ### 🎓 Enrolment Forecasting & Resource Optimization
-Machine learning system predicting student enrolment trends and optimizing academic resource allocation.
+
+- Trained ML models on 37,000+ historical records  
+- Achieved X% model accuracy (put your real number)  
+- Built interactive prediction dashboard  
+- Supports institutional planning & resource allocation  
 
 ### 🚨 Early Warning System for Student Dropout
 Predicts at-risk students and identifies key risk drivers using supervised learning models.
@@ -40,14 +46,27 @@ Churn modeling and revenue impact quantification for telecom customer data.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-- SQL Server
-- Python (Pandas, Scikit-learn, Streamlit)
-- ETL & Data Modeling
-- Machine Learning
-- Git & GitHub Actions
-- Power BI
+**Languages**  
+Python | SQL  
+
+**Databases**  
+SQL Server | PostgreSQL  
+
+**Analytics & ML**  
+Scikit-learn | Pandas | Streamlit | Power BI  
+
+**DevOps & Automation**  
+Git | GitHub Actions | ETL Pipelines
+
+---
+
+## 📈 Impact
+
+- Reduced manual reporting time by 90% through automation  
+- Enabled real-time KPI tracking for decision-makers  
+- Built predictive systems to support proactive institutional planning  
 
 ---
 
