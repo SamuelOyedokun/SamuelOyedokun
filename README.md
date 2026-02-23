@@ -3,6 +3,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/SamuelOyedokun?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=SamuelOyedokun&style=for-the-badge&color=blue)
 
+## 🔥 Contribution Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelOyedokun&theme=react-dark)
+
 
 Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner
 
