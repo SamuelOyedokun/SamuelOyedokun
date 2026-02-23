@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Oyedokun 👋
+# Hi, I'm Samuel Oyedokun
 
 Business Intelligence Engineer | Data Systems Developer | ML Practitioner  
 
