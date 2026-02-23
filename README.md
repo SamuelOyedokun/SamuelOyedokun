@@ -1,72 +1,65 @@
 # Hi, I'm Samuel Oyedokun 👋
 
-📊 **Data Analyst | MSc Information Science | BSc Physics**  
-🔍 Turning data into actionable insights for decision-making  
-🌍 Open to remote and international opportunities
+Business Intelligence Engineer | Data Systems Developer | ML Practitioner  
+
+I build automated reporting systems, predictive analytics models, and production-grade data pipelines that turn raw data into decision intelligence.
 
 ---
 
-## 👨‍💼 About Me
+## 🚀 What I Build
 
-I am a results-driven **Data Analyst with over 5 years of experience** in data analysis, visualization, and applied analytics.  
-My background combines **Physics**, **Information Science**, and **real-world data projects**, allowing me to approach problems analytically while delivering business-focused insights.
-
-I specialize in transforming complex datasets into clear dashboards, predictive models, and reports that support strategic planning and operational efficiency.
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming & Analysis:** Python (Pandas, NumPy, Scikit-learn)
-- **Databases:** SQL (PostgreSQL, MySQL)
-- **Visualization:** Power BI, Plotly, Matplotlib
-- **Web Apps:** Streamlit
-- **Data Science:** EDA, Feature Engineering, Predictive Modelling
-- **Tools:** Git, GitHub, Excel
+✔ End-to-end BI systems (SQL → Python → KPI Engine → Dashboard)  
+✔ Machine learning models for forecasting & risk prediction  
+✔ Automated reporting pipelines (PDF + Email + Scheduling)  
+✔ Decision-support systems for institutions  
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Projects
 
-### 🎓 University Enrolment Analytics Platform
-**Description:**  
-A data analytics and predictive platform designed to analyze and forecast student enrolment trends and optimize resource allocation in a university setting.
+### 📊 KPI Reporting System
+A scalable BI platform that:
+- Extracts 2,800+ transactions from SQL Server
+- Computes executive KPIs automatically
+- Generates PDF reports
+- Sends automated email briefings
+- Deploys interactive Streamlit dashboards
 
-**Key Highlights:**
-- Analyzed enrolment data from 2014–2024
-- Built interactive dashboards for decision support
-- Developed machine learning models for enrolment prediction
-- Provided insights for staffing, hostel allocation, and budgeting
+### 🎓 Enrolment Forecasting & Resource Optimization
+Machine learning system predicting student enrolment trends and optimizing academic resource allocation.
 
-**Tools:** Python, SQL, Streamlit, Plotly  
-🔗 *Repository:* UI_Enrolment_Analytics_Platform
+### 🚨 Early Warning System for Student Dropout
+Predicts at-risk students and identifies key risk drivers using supervised learning models.
 
----
-
-### 📊 Data Analytics Assessment (Case Study)
-**Description:**  
-A practical assessment project demonstrating end-to-end data analysis: data cleaning, EDA, visualization, and insight generation.
-
-**Tools:** Python, Pandas, SQL  
-🔗 *Repository:* DataAnalytics-Assessment
+### 📉 Customer Retention & Revenue Risk Analysis
+Churn modeling and revenue impact quantification for telecom customer data.
 
 ---
 
-## 📈 What I Bring to a Team
+## 🛠 Tech Stack
 
-- Strong analytical and problem-solving mindset
-- Ability to communicate insights to non-technical stakeholders
-- Experience working with large, structured datasets
-- Research-oriented thinking with business application
-
----
-
-## 📫 Let’s Connect
-
-- **LinkedIn:** *https://www.linkedin.com/in/samuel-oyedokun-b41895142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBwcvYBGUQFK%2BU5%2F9lxpqrg%3D%3D*
-- **GitHub:** https://github.com/SamuelOyedokun/
-- **Email:** *thesamueloyedokun@gmail.com*
+- SQL Server
+- Python (Pandas, Scikit-learn, Streamlit)
+- ETL & Data Modeling
+- Machine Learning
+- Git & GitHub Actions
+- Power BI
 
 ---
 
-⭐ *I am passionate about using data to solve real-world problems and drive smarter decisions.*
+## 🌍 Open To
+
+- Remote BI Engineer roles  
+- Data Analyst roles  
+- Data Engineering opportunities  
+- International collaboration  
+
+---
+
+📧 thesamueloyedokun@gmail.com  
+🔗 Portfolio: https://samueloyedokun.github.io  
+🔗 LinkedIn: https://www.linkedin.com/in/samuel-oyedokun-b41895142  
+
+---
+
+> “The analysis is the starting point. The system is the product.”
