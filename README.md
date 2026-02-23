@@ -1,11 +1,15 @@
-# Hi, I'm Samuel Oyedokun
+# Samuel Oyedokun
 
-Business Intelligence Engineer | Data Systems Developer | ML Practitioner  
+Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner 
 
 I build automated reporting systems, predictive analytics models, and production-grade data pipelines that turn raw data into decision intelligence.
 
 ---
+## 💼 Professional Focus
 
+I focus on building scalable analytics systems that automate insight generation and support data-driven decision-making at organizational level.
+
+---
 ## 🚀 What I Build
 
 ✔ End-to-end BI systems (SQL → Python → KPI Engine → Dashboard)  
