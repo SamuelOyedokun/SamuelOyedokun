@@ -10,10 +10,6 @@ I build automated reporting systems, predictive analytics models, and production
 ![GitHub stars](https://img.shields.io/github/stars/SamuelOyedokun?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=SamuelOyedokun&style=for-the-badge&color=blue)
 
-## 🔥 Contribution Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelOyedokun&theme=react-dark)
-
 ---
 ## 💼 Professional Focus
 
@@ -99,6 +95,12 @@ I aim to build and scale intelligent data systems that power strategic decision-
 📧 thesamueloyedokun@gmail.com  
 🔗 Portfolio: https://samueloyedokun.github.io  
 🔗 LinkedIn: https://www.linkedin.com/in/samuel-oyedokun-b41895142  
+
+---
+
+## 🔥 Contribution Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelOyedokun&theme=react-dark)
 
 ---
 
