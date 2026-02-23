@@ -1,4 +1,7 @@
 # Samuel Oyedokun
+![GitHub followers](https://img.shields.io/github/followers/SamuelOyedokun?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/SamuelOyedokun?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SamuelOyedokun&style=for-the-badge&color=blue)
 
 Business Intelligence Engineer | Data Systems Developer | Machine Learning Practitioner
 
