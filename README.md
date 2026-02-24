@@ -77,7 +77,7 @@ End-to-end automated analytics system that extracts 2,800+ real sales transactio
 
 ---
 
-### 🎓 Enrolment Forecasting & Resource Optimization
+### 🎓 Enrolment Forecasting and Resource Optimization System
 > *95% model accuracy. 37,000+ records.*
 
 Trained ML models on historical institutional data to forecast student enrolment and optimize resource allocation for academic planning.
